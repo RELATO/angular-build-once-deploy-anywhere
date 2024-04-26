@@ -1,5 +1,5 @@
 {
-  "name": "angularpoc",
+  "name": "build",
   "version": "0.0.1",
   "scripts": {
     "ng": "ng",
@@ -34,5 +34,6 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.2.2"
-  }
+  },
+  "engines": { "node": "^18.13.0 || >=20.9.0" }
 }
